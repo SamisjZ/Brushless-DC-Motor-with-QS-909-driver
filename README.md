@@ -11,20 +11,32 @@ and the next image with the arduino uno
 
 connections from QS-909 JYQD to arduino:
 1- 5v to 5v
+
 2- EL to pin 11
+
 3- Signal to pin 10
+
 4- Z/F to pin 6
+
 5- VR to pin 5
+
 6- GND to GND
 
 connections from QS-909 JYQD to Brushless Motor;
 1- 5v to 5v
+
 2- HA to HA
+
 3- HB to HB
+
 4- HC to HC
+
 5- GND to GND
+
 6- MA to MA
+
 7- MB to MB 
+
 8- MC to MC
 
 and last the  24V Battary graund to P-, positive to P+

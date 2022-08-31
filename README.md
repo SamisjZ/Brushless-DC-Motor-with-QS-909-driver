@@ -1,4 +1,4 @@
-# Brushless-DC-Motor-with-QS-909-driver
+# Brushless-DC-Motor-with-QS-909-driver.
 
 in this Task I will use the QS-909 JYQD driver to controll the Brushless DC Motor
 
